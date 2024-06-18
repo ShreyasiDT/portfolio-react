@@ -9,9 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Shreyasi</h1>
         <p className={styles.description}>
-          I'm a beginner at Full-Stack development,trying to fry my brain with
-          oil of DSA and Development. Feel free to contact and have a look at
-          some of work , join the nerdy world along with some coffee🤡.
+          As a beginner in Full-Stack development, I'm diving deep into both
+          Development and Data Structures & Algorithms (DSA). Check out some of
+          my projects, and feel free to reach out. Let's join the nerdy world
+          together, preferably over a cup of coffee! 🤡
         </p>
         <a href="mailto:shreyasit1792@gmail.com" className={styles.contactBtn}>
           Contact Me
